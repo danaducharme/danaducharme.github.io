@@ -25,14 +25,14 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Web Designer and Developer
-author_email: "johndoe@gmail.com"
-author_location: India
-author_website_url: "http://johndoe.com"
+author: Dana Ducharme
+author_bio: Web Developer
+author_email: "danaducharme@gmail.com"
+author_location: Baltimore, Maryland
+author_website_url: "http://duchar.me"
 
 author_work_experiences:
-            - company_name: Google
+            - company_name: Under Armour
               company_logo: google.png
               company_url: https://google.com
               designation: Software Engineer
@@ -66,10 +66,10 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  johndoe
-facebook_username: johndoe
-linkedin_username: johndoe
+twitter_username: polyploidal
+github_username:  danaducharme
+facebook_username: danaducharme
+linkedin_username: danaducharme
 behance_username: johndoe
 instagram_username: johndoe
 medium_username: johndoe
@@ -81,13 +81,13 @@ flickr_username: johndoe
 disqus_shortname: sujay-kundu
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: danaducharme
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: danaducharme@gmail.com
 
 # syntax highlighter
 markdown: kramdown
