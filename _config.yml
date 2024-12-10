@@ -53,7 +53,7 @@ author_education_details:
                 visibility: false
 
 author_project_details:
-              - project_thumbnail: ml-scaled.jpg
+              - project_thumbnail: ml-scaled.jpeg
                 project_title: Resume Matcher
                 project_description: Tool to improve your resume by using language models to compare and rank resumes with job descriptions.
                 project_url: https://github.com/danaducharme/Resume-Matcher
