@@ -14,12 +14,12 @@ urls:
 #      url: /gallery
 #    - text: Shop
 #      url : /shop
-    - text: Contact Me
-      url : /contact
+#    - text: Contact Me
+#      url : /contact
 #    - text: Styleguide
 #      url: /styleguide
-    - text: Resume
-      url: "https://cv.duchar.me"
+#    - text: Resume
+#      url: "https://cv.duchar.me"
 
 # Edit these details
 
@@ -97,8 +97,8 @@ permalink: pretty
 google_analytics: UA-46783401-10
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
-show_author_education_details: true
+show_author_work_experiences: false
+show_author_education_details: false
 show_author_project_details: true
 
 # algolia search
