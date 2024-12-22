@@ -67,6 +67,11 @@ layout: default
                         <i class="fab fa-flickr"></i>
                     </a>
                     {% endif %}
+                    {% if site.bluesky_username %}
+                    <a class="social-link" href="https://bsky.app/profile/{{ site.flickr_username }}">
+                        <i class="fab fa-bluesky"></i>
+                    </a>
+                    {% endif %}
                 </p>
 
                 {% if site.author_location %}
