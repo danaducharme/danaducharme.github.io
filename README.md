@@ -6,7 +6,7 @@ Just a little something I'm using to jump start a site refresh. I like to think 
 
 ![devlopr jekyll](https://github.com/sujaykundu777/devlopr-jekyll/blob/master/assets/img/screenshot.PNG?raw=true)
 
-You can easily manage the site using the admin : [http://localhost:4000/admin](http://localhost:4000/admin)
+You can easily manage the site using the admin [http://localhost:4000/admin](http://localhost:4000/admin)
 
 ![jekyll admin](https://github.com/sujaykundu777/devlopr-jekyll/blob/master/assets/img/jekyll-admin.PNG?raw=true)
 
