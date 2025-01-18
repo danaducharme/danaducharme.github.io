@@ -138,7 +138,7 @@ collections:
 defaults:
   -
     scope:
-      path: "gallery"
+      path: "gallery" # an empty string here makes it apply to all files
     values:
       permalink: /:path/:basename:output_ext
 
