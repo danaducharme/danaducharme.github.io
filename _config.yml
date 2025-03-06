@@ -63,6 +63,12 @@ author_project_details:
                 project_description: Personal site using Jekyll
                 project_url: https://github.com/danaducharme/danaducharme.github.io
                 visibility: true
+              - project_thumbnail: HornbeamColl.png
+                project_title: Hornbeam Collective LLC Business site
+                project_description: Business site for Hornbeam Collective LLC
+                project_url: https://hornbeamcollective.com
+                visibility: true
+
 
 # social links
 #twitter_username: polyploidal
