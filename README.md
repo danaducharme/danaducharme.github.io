@@ -101,7 +101,7 @@ Contributions are more than just welcome. Fork this repo and create a new branch
 
 
 
-### If you like the project. Don't forget to Star !
+### If you like the project. Don't forget to Star!
 
 
 
